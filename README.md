@@ -52,7 +52,7 @@ $ echo '
 #### Node.js
 
 ```js
-var htmlMetaTags = require('./')
+var htmlMetaTags = require('html-meta-tags')
 var data = require('./data.json')
 
 console.log(htmlMetaTags(data))
