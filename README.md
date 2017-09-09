@@ -1,6 +1,6 @@
 [url]: https://rinaldi.io
 
-# html-meta-tags
+# html-meta-tags [![Build Status](https://semaphoreci.com/api/v1/rafaelrinaldi/html-meta-tags/branches/master/badge.svg)](https://semaphoreci.com/rafaelrinaldi/html-meta-tags)
 
 > Generate HTML meta tags from JSON data.
 
