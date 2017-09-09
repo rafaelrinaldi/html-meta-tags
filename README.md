@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-npm install rafaelrinaldi/html-meta-tags -g
+npm install html-meta-tags -g
 ```
 
 ## Usage
@@ -38,7 +38,6 @@ $ echo '
   "keywords": ["blockchain", "infosec", "crypto"],
   "description": "This is my personal website"
 }' | html-meta-tags
-
 <meta charset="utf-8">
 <meta name="title" content="My Website">
 <meta name="url" content="https://mywebsite.com">
