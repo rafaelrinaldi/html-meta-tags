@@ -1,6 +1,6 @@
 {
   "name": "html-meta-tags",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate HTML meta tags from JSON data.",
   "main": "index.js",
   "bin": "cli.js",
