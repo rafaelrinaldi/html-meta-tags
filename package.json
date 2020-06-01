@@ -32,7 +32,7 @@
     }
   },
   "dependencies": {
-    "get-stdin": "^7.0.0"
+    "get-stdin": "^8.0.0"
   },
   "devDependencies": {
     "husky": "^4.2.5",
